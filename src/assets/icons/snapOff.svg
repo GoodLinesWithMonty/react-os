@@ -1,0 +1,7 @@
+<svg viewBox="0 0 32 32" fill="none">
+    <rect x="3" y="3" width="26" height="26" rx="1" fill="none" stroke="#c0c0c0" strokeWidth="1" strokeDasharray="3 3"/>
+    <rect x="8" y="8" width="7" height="7" rx="1" fill="#c0c0c0" stroke="#808080" strokeWidth="1"/>
+    <rect x="17" y="8" width="7" height="7" rx="1" fill="#c0c0c0" stroke="#808080" strokeWidth="1"/>
+    <rect x="8" y="17" width="7" height="7" rx="1" fill="#c0c0c0" stroke="#808080" strokeWidth="1"/>
+    <rect x="17" y="17" width="7" height="7" rx="1" fill="#c0c0c0" stroke="#808080" strokeWidth="1"/>
+</svg>
